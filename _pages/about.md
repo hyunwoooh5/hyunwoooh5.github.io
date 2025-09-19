@@ -6,12 +6,11 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: pic.jpeg
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <i class="fa-solid fa-envelope"></i> <p> <a href="mailto:hyunwooh@umd.edu">hyunwooh@umd.edu</a> </p>  <br>
     <i class="fa-solid fa-envelope"></i> <p> <a href="mailto:hyunwoo.oh5@gmail.com">hyunwoo.oh5@gmail.com</a> </p> <br>
-    <img src="../assets/img/inspire.ico" style="width: 16px; height: 16px;"> <p> <a href="https://inspirehep.net/authors/2087569">INSPIRE-HEP</a> </p>
     
 
 news: true # includes a list of news items
@@ -20,6 +19,7 @@ social: false # includes social icons at the bottom of the page
 ---
 <!-- <i class="fa-brands fa-linkedin"></i> <p> <a href="https://www.linkedin.com/in/hyunwoo--oh/">LinkedIn</a> </p> -->
 <!--  <p> <a href="https://scholar.google.com/citations?user=fxVJYqoAAAAJ">Google Scholar</a> </p> -->
+<!-- <img src="../assets/img/inspire.ico" style="width: 16px; height: 16px;"> <p> <a href="https://inspirehep.net/authors/2087569">INSPIRE-HEP</a> </p> -->
 
 I am a physics Ph.D. candidate at the [Maryland Center for Fundamental Physics](https://mcfp.physics.umd.edu) at the University of Maryland, College Park, where I work with Paulo Bedaque and Tom Cohen.  I did my bachelors in Physics and Mathematics at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do).
 
