@@ -11,7 +11,7 @@ profile:
   more_info: >
     <i class="fa-solid fa-envelope"></i> <p> <a href="mailto:hyunwooh@umd.edu">hyunwooh@umd.edu</a> </p>  <br>
     <i class="fa-solid fa-envelope"></i> <p> <a href="mailto:hyunwoo.oh5@gmail.com">hyunwoo.oh5@gmail.com</a> </p> <br>
-    <img src="assets/img/inspire.ico" style="width: 16px; height: 16px;"> <p> <a href="https://inspirehep.net/authors/2087569">INSPIRE-HEP</a> </p>
+    <img src="../assets/img/inspire.ico" style="width: 16px; height: 16px;"> <p> <a href="https://inspirehep.net/authors/2087569">INSPIRE-HEP</a> </p>
     <i class="fa-brands fa-linkedin"></i>  <p> <a href="https://www.linkedin.com/in/hyunwoo--oh/">LinkedIn</a> </p>
 
 news: true # includes a list of news items
