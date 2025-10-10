@@ -1,6 +1,6 @@
 ---
 layout: cv 
-permalink: /assets/pdf/CV_250919.pdf
+permalink: /assets/pdf/CV_251010.pdf
 title: cv
 nav: true
 nav_order: 5
