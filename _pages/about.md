@@ -21,6 +21,6 @@ social: false # includes social icons at the bottom of the page
 
 <!--  <p> <a href="https://scholar.google.com/citations?user=fxVJYqoAAAAJ">Google Scholar</a> </p> -->
 
-I am a physics Ph.D. candidate at the [Maryland Center for Fundamental Physics](https://mcfp.physics.umd.edu) at the University of Maryland, College Park, where I work with Paulo Bedaque and Tom Cohen.  I did my bachelors in Physics and Mathematics at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do).
+I am a physics Ph.D. at the [Maryland Center for Fundamental Physics](https://mcfp.physics.umd.edu) at the University of Maryland, College Park, where I work with Paulo Bedaque and Tom Cohen.  I did my bachelors in Physics and Mathematics at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do).
 
 My research has focused on improving stochastic simulation methods. I use machine learning and statistical techniques to reduce variance in Monte Carlo calculations, enhancing accuracy and reliability in complex simulations. Additionally, I have been developing quantum algorithms: I design and analyze methods for efficient quantum state preparation, contributing to the advancement of practical quantum computing for simulating quantum field theories.
