@@ -21,6 +21,10 @@ social: false # includes social icons at the bottom of the page
 
 <!--  <p> <a href="https://scholar.google.com/citations?user=fxVJYqoAAAAJ">Google Scholar</a> </p> -->
 
-I am a physics Ph.D. at the [Maryland Center for Fundamental Physics](https://mcfp.physics.umd.edu) at the University of Maryland, College Park, where I work with Paulo Bedaque and Tom Cohen.  I did my bachelors in Physics and Mathematics at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do).
+I am a physics Ph.D. from the [Maryland Center for Fundamental Physics](https://mcfp.physics.umd.edu) at the University of Maryland, College Park. Under the guaidance of Paulo Bedaque and Tom Cohen, my research has sat at the intersection of nuclear theory and computational innovation.
 
-My research has focused on improving stochastic simulation methods. I use machine learning and statistical techniques to reduce variance in Monte Carlo calculations, enhancing accuracy and reliability in complex simulations. Additionally, I have been developing quantum algorithms: I design and analyze methods for efficient quantum state preparation, contributing to the advancement of practical quantum computing for simulating quantum field theories.
+My work focuses on two primary pillars:
+* Variance reduction: I leverage machine learning and statistical techniques to mitigate variance in Monte Carlo calculations, pushing the boundaries of accuracy in complex simulations.
+* Quantum computation: I design and analyze algorithms for efficient quantum state preparation, specifically aimed at making the simulation of quantum field theories a practical reality.
+
+Before my doctoral studies, I served as a Process Integration Engineer at Samsung Electronics, bringing a background in industrial-scale engineering to my foundational work in physics. I hold a B.S. in Physics and Mathematics from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do).
