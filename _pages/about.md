@@ -9,22 +9,15 @@ profile:
   image: pic.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <i class="fa-solid fa-envelope"></i> <p> <a href="mailto:hyunwooh@umd.edu">hyunwooh@umd.edu</a> </p>  <br>
     <i class="fa-solid fa-envelope"></i> <p> <a href="mailto:hyunwoo.oh5@gmail.com">hyunwoo.oh5@gmail.com</a> </p> <br>
     <img src="../assets/img/inspire.ico" style="width: 16px; height: 16px;"> <p> <a href="https://inspirehep.net/authors/2087569">INSPIRE-HEP</a> </p>
     <i class="fa-brands fa-linkedin"></i> <p> <a href="https://www.linkedin.com/in/hyunwoo--oh/">LinkedIn</a> </p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
 <!--  <p> <a href="https://scholar.google.com/citations?user=fxVJYqoAAAAJ">Google Scholar</a> </p> -->
 
-I am a physics Ph.D. from the [Maryland Center for Fundamental Physics](https://mcfp.physics.umd.edu) at the University of Maryland, College Park. Under the guaidance of Paulo Bedaque and Tom Cohen, my research has sat at the intersection of nuclear theory and computational innovation.
-
-My work focuses on two primary pillars:
-* Variance reduction: I leverage machine learning and statistical techniques to mitigate variance in Monte Carlo calculations, pushing the boundaries of accuracy in complex simulations.
-* Quantum computation: I design and analyze algorithms for efficient quantum state preparation, specifically aimed at making the simulation of quantum field theories a practical reality.
-
-Before my doctoral studies, I served as a Process Integration Engineer at Samsung Electronics, bringing a background in industrial-scale engineering to my foundational work in physics. I hold a B.S. in Physics and Mathematics from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do).
+I am a data scientist at [Lam Research](https://www.lamresearch.com). I use machine learning techniques and AI to reduce the cost of semiconductor manufacturing processes. I received my Ph.D. in physics from [University of Maryland](https://umd.edu). Under the guidance of Paulo Bedaque and Tom Cohen, my research has sat at the intersection of nuclear theory and computational innovation. Before my doctoral studies, I served as a process integration engineer at [Samsung Electronics](https://semiconductor.samsung.com), bringing a background in industrial-scale engineering to my foundational work in physics.
